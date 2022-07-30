@@ -1,4 +1,4 @@
-# Skateboard Video Platform
+# Basktball Platform
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/TurkAysenur/pen/LYRKpWe](https://codepen.io/TurkAysenur/pen/LYRKpWe).
 
